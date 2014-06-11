@@ -1,0 +1,18 @@
+WARNING---------
+
+If you leave you laptop speaker unmuted, feedback will occur and this can be very loud.
+I advise turning them off, but you can get some nice effects with the feedback if used carefully.
+
+
+WHAT IT IS--------
+
+Play music into your laptop microphone and watch the visuals adapt to the volume level. 
+
+the outer most circles react to the behaviour of the inner circles, and the inner circles react
+to the main center circle. Colour, size and motion are all decided depending on the volume
+level that the center circle is reacting to. 
+
+If you left mouse click in the center of the screen, it will reset the visuals to black.
+
+
+
